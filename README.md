@@ -1,11 +1,14 @@
 # promptmgr
 
-Simple Python application with a main function.
+A cross-platform prompt management application written in Python with a native Tkinter interface.
 
-## Usage
+## Features
 
-Run the application with:
+- Store prompts as markdown files with metadata (ID, name, description, tags)
+- Automatic saving with version history and file locking
+- Search prompts by wildcard, regex, or fuzzy matching
+- Launch LLMs in the default browser via configurable buttons
+- Choose a directory on the file system for prompts
 
-```
-python main.py
-```
+See `docs/README.md` for full documentation.
+
