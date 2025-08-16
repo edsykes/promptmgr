@@ -11,3 +11,4 @@ A cross-platform prompt management application written in Python with a native T
 - Choose a directory on the file system for prompts
 
 See `docs/README.md` for full documentation.
+
